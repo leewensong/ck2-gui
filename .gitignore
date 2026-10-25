@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+env/
+
+# Local settings and diagnostics
+data/
+.corridorkey_gui.json
+.corridorkey_gui.tmp
+corridorkey_gui_error.log
+docs/local-machine-notes.md
+*.log
+
+# Build outputs and temporary assets
+dist/
+tmp/
+out*/
+out_setup/
+*.zip
+*.zip.sha256
+
+# Compiled Windows launcher artifacts
+packaging/*.exe
+packaging/*.obj
+packaging/*.res

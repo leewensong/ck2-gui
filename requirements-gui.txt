@@ -1,0 +1,3 @@
+# CorridorKey 2.0 and its CUDA/PyTorch dependencies must already be installed
+# in the CorridorKey environment.  This file only adds the GUI component.
+tkinterdnd2==0.6.4
